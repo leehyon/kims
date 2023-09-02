@@ -1,0 +1,9 @@
+# Backup files
+*.backup
+
+.DS_Store
+.hugo_build.lock
+.vscode
+
+public/
+content/.obsidian/
